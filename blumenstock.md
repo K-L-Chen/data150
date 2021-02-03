@@ -18,4 +18,9 @@ How do you respond to these ideas regarding "good intent", "transparency", and t
 
 Prepare response for next Thursday's class.
 
-Here are my responses from the Blumenstock article about the
+Here are my responses from the Blumenstock article:
+
+Blumenstock cites the promise of being able to give everyone and anyone a credit score, allowing them to borrow money, even if they'd be traditionally be barred from borrowing due to lack of "collateral or access to a bank" (Blumenstock 2018), through machine learning algorithms and cellphone tracking data to track daily purchases, as well as helping direct government aid, keep tabs on poverty, and keep tabs on agricultural output through the same methods.
+
+However, he also cites that there exist issues with this system, mainly in algorithmic and data bias, where most of the data comes from a country's wealthiest, as well as misuse of this system by banks and individuals.
+
