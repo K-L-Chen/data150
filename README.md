@@ -3,4 +3,4 @@
 ## informal responses
 
 1.  [Blumenstock Article](https://www.nature.com/articles/d41586-018-06215-5)
-2.  [Blumenstock Response](data150BlumenstockResponse/blumenstock.md)
+2.  [Blumenstock Informal Response](data150BlumenstockResponse/blumenstock.md)
