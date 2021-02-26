@@ -9,6 +9,8 @@ Word Count: 1173
 
 2. Blancas, L. C., & El-Hifnawi, M. B. (2014). Facilitating Trade through Competitive, Low-Carbon Transport: The Case for Vietnam’s Inland and Coastal Waterways. Directions in Development: Countries and Regions.
 
+    The paper seeks to address policies that could "enhance the competitiveness and environmental sustainability characteristics of Vietnam’s freight transport system", primarily the waterborne system, as well as to discuss and estimate benefits from implementing said policies.
+     Vietnamese GDP growth, which averaged at a fairly sizable 7.2 percent per year between 1993 and 2013, can be attibuted to Vietnam's economic liberalization of the mid-1980s and their subsequent integration into the global economy. Despite Vietnam's preference on road-based infrastructure, which accounts for 40% of the national freight in tons per kilometer and is the recipient of about 80% of public transportation spending, road transport produces the most carbon dioxide of the transportation means. River barge transport is nearly 4 times as fuel efficent than the road-based freight trucking.
 
 3. Gaughan, Andrea E, Oda, Tomohiro, Sorichetta, Alessandro, Stevens, Forrest R, Bondarenko, Maksym, Bun, Rostyslav, . . . Nghiem, Son V. (2019). Evaluating nighttime lights and population distribution as proxies for mapping anthropogenic CO2 emission in Vietnam, Cambodia and Laos. Environmental Research Communications, 1(9), Environmental Research Communications, 2019-09-11, Vol.1 (9).
 
