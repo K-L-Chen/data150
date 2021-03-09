@@ -6,7 +6,7 @@
   **Introduction**  
   1. Human Development Topic
   2. Region/Country of Investigation
-  3. Data Science Methods considered  
+  3. Data Science Methods considered
   
   **Themes/Topics, Processes, and Methods**
   - Theme 1
