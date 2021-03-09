@@ -3,7 +3,7 @@
 ## informal responses
 
 1. [Blumenstock Informal Response](https://k-l-chen.github.io/data150/blumenstock.html)
-
+2. [Feb 16 Informal Response](https://k-l-chen.github.io/data150/Feb16Questions.html)
 
 ## formal assignments
 
