@@ -1,9 +1,9 @@
 #### Transportation Development and Infrastructure Over Time in South East Asia
-#### by Kyle Chen  
+#### by Kyle Chen
   
-  **Abstract**  
+  **Abstract**
   
-  **Introduction**  
+  **Introduction**
   1. Human Development Topic
   2. Region/Country of Investigation
   3. Data Science Methods considered
