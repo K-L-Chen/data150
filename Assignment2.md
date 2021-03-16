@@ -19,3 +19,4 @@
   **Conclusion**
   
 #### References
+Nosheen, Misbah, Iqbal, Javed, & Hassan, Syeda Anam. (2019). Economic growth, financial development, and trade in nexuses of CO2 emissions for Southeast Asia. Environmental Science and Pollution Research International, 26(36), 36274-36286.
