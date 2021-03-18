@@ -1,11 +1,15 @@
-#### CO2 Emissions Data in South East Asia
+#### Using CO2 Emissions Data to Estimate the Increase in Transportation Infrastructure in South East Asia
 #### by Kyle Chen
 Word Count:   
   
   **Abstract**
     X  
     
-  **Introduction**
+  **Introduction**  
+  
+    South East Asia was, during the age of colonialism, a primarily bicycle-riding society. The bicycle was, for all intents and purposes, the car of the region, and it transformed life such that semi-suburban neighborhoods sprung up on the outskirts of cities like Hanoi, and many subjects under the colonial authority sprung up to supplement the demand for this everyday commodity. In fact, by 1926, there were an estimated 50,000 Bicycles in the Cholon Quarter of Saigon (now Ho Chi Minh City), and in Hanoi, the bicycle was fast becoming a standard mode of transport. The economic importance of the bicycle was held in such high regard that, as can be seen with the development of mobile shops and bicycle-rickshaw taxis, the people of South East Asia tailored the mobility tool to their own needs, and local bicycle makers and mechanics were able to withstand the economic downturn of the Great Depression due to the high demand of bicycles for their added mobility (Arnold & DeWald, 2012).
+    
+    By the end of the 1990s, motorbikes have overtaken 
   1. Human Development Topic
   2. Region/Country of Investigation
   3. Data Science Methods considered
@@ -25,8 +29,8 @@ Arnold, D., & DeWald, E. (2011). Cycles of Empowerment? The Bicycle and Everyday
 
 Blancas, L. C., & El-Hifnawi, M. B. (2014). Facilitating Trade through Competitive, Low-Carbon Transport: The Case for Vietnam’s Inland and Coastal Waterways. Directions in Development: Countries and Regions.  
 
-Couwenberg, John, Dommain, René, & Joosten, Hans. (2010). Greenhouse gas fluxes from tropical peatlands in south‐east Asia. Global Change Biology, 16(6), 1715-1732.  
-  
+Chontanawat, Jaruwan. (2019). Driving forces of energy-related CO2 emissions based on expanded IPAT decomposition analysis: Evidence from ASEAN and four selected countries. Energies (Basel), 12(4), 764.  
+
 Gaughan, Andrea E, Oda, Tomohiro, Sorichetta, Alessandro, Stevens, Forrest R, Bondarenko, Maksym, Bun, Rostyslav, . . . Nghiem, Son V. (2019). Evaluating nighttime lights and population distribution as proxies for mapping anthropogenic CO2 emission in Vietnam, Cambodia and Laos. Environmental Research Communications, 1(9), Environmental Research Communications, 2019-09-11, Vol.1 (9).  
   
 Hansen, A. (2017). Hanoi on wheels: emerging automobility in the land of the motorbike. Mobilities, 12(5), 628–645. https://doi.org/10.1080/17450101.2016.1156425
