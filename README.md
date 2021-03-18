@@ -9,5 +9,5 @@
 5. [Mar 16 Informal Response](https://k-l-chen.github.io/data150/Mar16.html)
 ## formal assignments
 
-1. [Data 150 Assignment 1: Annotated Bibliography](https://k-l-chen.github.io/data150/Assignment1.html)
+1. [Data 150 Assignment 1: Annotated Bibliography](https://k-l-chen.github.io/data150/A1/Assignment1.html)
 2. [Data 150 Assignment 2: Literature Review](https://k-l-chen.github.io/data150/Assignment2.html)
