@@ -19,4 +19,5 @@
   **Conclusion**
   
 #### References
+Lin, Xin, Ciais, Philippe, Bousquet, Philippe, Ramonet, Michel, Yin, Yi, Balkanski, Yves, . . . Zhou, Lingxi. (2018). Simulating CH 4 and CO 2 over South and East Asia using the zoomed chemistry transport model LMDz-INCA. Atmospheric Chemistry and Physics, 18(13), 9475-9497.
 Nosheen, Misbah, Iqbal, Javed, & Hassan, Syeda Anam. (2019). Economic growth, financial development, and trade in nexuses of CO2 emissions for Southeast Asia. Environmental Science and Pollution Research International, 26(36), 36274-36286.
