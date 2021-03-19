@@ -11,7 +11,7 @@ Word Count:
     The development of South East Asian transportation infrastructure, including rail- and waterway-based transport, as well as an increase in industry has led to an increase in CO2 emissions in the region. Thus, the spread of major population centers, as well as the development of smaller population groups, should show in the current data describing CO2 output, and predictions of future CO2 emissions should give us insight to how the population in these areas will spread. As transporation infrastructure must develop alongside population centers, CO2 emissions should be a good enough measure to check the growth of transporation infrastructure.  
 
   **CO2 Emissions Aggregated by Population**  
-  CO2 emissions data can be aggregated by population data.  
+    CO2 emissions data can be aggregated by population data.  
   **CO2 Emissions by Type of Transportation**
   - Theme 1
   - Theme 2
