@@ -12,6 +12,7 @@ Word Count:
 
   **CO2 Emissions Aggregated by Population**  
     CO2 emissions data can be aggregated by population data.  
+    **change this later** The study primarily illustrates the differences between certain data sets and data visualization of those data sets on the Indochinese Peninsula regarding carbon dioxide output as a response for the "the strong need for a high resolution CO2 emission map for high-resolution atmospheric modeling and satellite CO2 analyses". The study evaluated nighttime lights (NTL) as a way to estimate carbon dioxide output compared to a population-based carbon dioxide emissions output model in unites of metric tons per year per 1x1 kilometer square of space (which will henceforth be referred to by "t/y/km^2"). Findings reveal that NTL and population-based models have extremely high variances, and at best should be used for broader analysis rather than minute CO2 analysis. The NTL estimations instead seem to have higher emission estimations towards areas with the highest population, namely inner city areas of Hanoi and Ho Chi Minh City, differing by more than 250 t/y/km^2 towards the NTL model when compared to the population driven model, and much lower emission estimations, differing by more than 250 t/y/km^2 towards the population model, in areas such as Can Tho City, which has approximately 1/8th of the population of Ho Chi Minh City.
   **CO2 Emissions by Type of Transportation**
   - Theme 1
   - Theme 2
