@@ -5,7 +5,7 @@ Word Count: 2058
   \[need illustrations\]
   
   **Abstract**  
-<p>    The high amount of economic and social development in Southeast Asia has also generated a large amount of greenhouse gases. The growth of greenhouse gas emission, as well as the distribution of the generation of greenhouse gases, can be used as a model to check the growth of internal and interregional infrastructure in Southeast Asian countries. The growth of infrastructure in the region post-economic reforms is an important insight as to understand internal mobility and migration movements, as well as to understand the efficacy of internal, interregional, and international trade.</p>  
+The high amount of economic and social development in Southeast Asia has also generated a large amount of greenhouse gases. The growth of greenhouse gas emission, as well as the distribution of the generation of greenhouse gases, can be used as a model to check the growth of internal and interregional infrastructure in Southeast Asian countries. The growth of infrastructure in the region post-economic reforms is an important insight as to understand internal mobility and migration movements, as well as to understand the efficacy of internal, interregional, and international trade.  
     This study is primarily focused on the use of greenhouse gas emissions data to estimate previous and future developments of internal infrastructure in Southeast Asia between 1980 and 2020, with greater focus on the mainland nations of the region such as Vietnam. The secondary focus of this study is to create a timeline of infrastructure growth in the region.
     
   **Introduction** \[come back to this\]  
