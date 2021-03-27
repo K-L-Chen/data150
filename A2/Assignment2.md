@@ -1,6 +1,6 @@
 #### Using Greenhouse Gas Emissions Data to Estimate the Increase in Transportation Infrastructure in South East Asia
 #### by Kyle Chen
-Word Count: 2058  
+Word Count: 2335  
   
   **Abstract**  
 <p>The high amount of economic and social development in Southeast Asia has also generated a large amount of greenhouse gases. The growth of greenhouse gas emission, as well as the distribution of the generation of greenhouse gases, can be used as a model to check the growth of internal and interregional infrastructure in Southeast Asian countries. The growth of infrastructure in the region post-economic reforms is an important insight as to understand internal mobility and migration movements, as well as to understand the efficacy of internal, interregional, and international trade.</p>  
