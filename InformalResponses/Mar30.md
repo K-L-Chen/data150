@@ -1,0 +1,10 @@
+**Begin by writing a comprehensive introduction to your selected human development topic. Identify salient harms, quantify their significance and describe the inherent and complex nature of the geospatial human development process you are investigating. Identify the geospatial data science method you have selected and describe it. State your broad central research question and relate how your selected method has been used to describe, analyze and/or model your selected geospatial human development process.**  
+  
+  
+**Problem Statement**  
+  
+  Carbon Dioxide emissions are the primary human-generated cause of Climate Change and Global Warming. Climate change, with the melting of the ice at both the North and South Poles, is endangering island and coastal communities, who may see their homes swept away into the sea. People have adapted by supporting renewable energy sources for local powergrids and homes, as well as adopting vehicles that use electricty in some way. By mapping carbon dioxide output over time in developing countries, we are able to develop methods to reduce the rate at which carbon dioxide emissions increases, and by adding a predictive element to the model, we are able to project future carbon dioxide emissions by 100x100 meter spaces.
+  
+**Introduction**  
+  
+  The development of South East Asian transportation infrastructure, including rail- and waterway-based transport, as well as an increase in industry has led to an increase in CO2 emissions in the region. Thus, the spread of major population centers, as well as the development of smaller population groups, should show in the current data describing CO2 output, and predictions of future CO2 emissions should give us insight to how the population in these areas will spread. As transportation infrastructure must develop alongside population centers, CO2 emissions should be a good enough measure to check the growth of transporation infrastructure. As transportation infrastructure develops and populations increase, trade must increase to supply the demand, thus bettering the lives of people living in Southeast Asia and aiding in the human development of this region.
