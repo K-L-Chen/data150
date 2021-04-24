@@ -26,8 +26,10 @@
   
 **Data Gaps**
   
-  Given city growth rates, if we could somehow correlate the growth of CO2 emissions and industrial demand, as well as the increase in nighttime lights and neighborhood growth, to the growth of a city using Zipf's law and the Pareto principle, or 80/20 rule, we could actively generate predictions of emissions and emission distributions 
-  <img title="Equation 1: General Form of Zipf's Law (Chen, 2011)" src="ZipfsLaw.PNG" width="300"> 
+  Given city growth rates, if we could somehow correlate the growth of CO2 emissions and industrial demand, as well as the increase in nighttime lights and neighborhood growth, to the growth of a city using Zipf's law and the Pareto principle, or 80/20 rule, we could actively generate predictions of emissions and emission distributions.   
+  <img title="Equation 1: General Form of Zipf's Law (Chen, 2011)" src="ZipfsLaw.PNG" width="200">  
+  As mentioned above, there exists a gap between CO2 emissions distributions between the people-per-pixel (PPP) model and the nighttime lights (NTL) model, usually between 250 tons-per-year/square-kilometer towards the NTL model when it comes to areas of greater absolute population, and towards the PPP model when it comes to other less-populous cities.
+  
   
 **Conclusion**  
   
