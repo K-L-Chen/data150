@@ -1,6 +1,6 @@
 #### Methods for Predicting CO2 Emissions in Mainland Southeast Asia
 #### by Kyle Chen
-#### Word Count:   
+#### Word Count: 1523  
 #### Due: April 25, 2021  
   
   
@@ -42,11 +42,11 @@
   The recent growth of cities due to an influx of people from rural areas in developing countries also places emphasis on the relation between Zipf's law and the Pareto principle, the former relating to the growth of the size of a city and the latter relating to the increase in the number of cities. As can be seen in Table 3 from Chen, the Pareto principle, more specifically, its exponent, is the inverse of the exponent of Zipf's law.
   <img title="(Chen, 2011)" src="ParetoEXPZipfEXPCorrelation.PNG" width="600">  
     
-  Thus, when we are able to obtain the relationship between city size and CO2 emissions, we could also use the continuous correlation function to project this relationship to the creating of other cities. This model, when used alongside the PPP and NTL CO2 distribution models, should allow us to predict CO2 emissions by population, and distribute the data along the lines of population and nighttime light clusters.  
+  Thus, when we can obtain the relationship between city size and CO2 emissions, we could also use the continuous correlation function to project this relationship to the creating of other cities. This model, when used alongside the PPP and NTL CO2 distribution models, should allow us to predict CO2 emissions by population, and distribute the data along the lines of population and nighttime light clusters.  
   
 **Conclusion**  
     
-  The development of modern mainland Southeast Asian cities and the subsequent increase in CO2 emissions gives us an insight into the importance of monitoring the growth of cities in developing countries. Creating prediction models for the purpose of predicting CO2 output by these developing cities, however, either lacks the proper resolution, as seen in the LMDz-INCA model, or has a high enough variance with another CO2 distribution and mapping model that proper conclusions cannot be made without further testing. However, future developments should take note of the inverse-relationship between the Pareto principle and Zipf's law, and should develop further the relationship between carbon dioxide output and city size to allow for estimation of CO2 output based on city population. This, coupled with the aforementioned CO2 distribution models, is enough as a basis for future CO2 distribution prediction modelling.
+  The development of modern mainland Southeast Asian cities and the subsequent increase in CO2 emissions gives us an insight into the importance of monitoring the growth of cities in developing countries. Creating prediction models for the purpose of predicting CO2 output by these developing cities, however, either lacks the proper resolution, as seen in the LMDz-INCA model, or has a high enough variance with another CO2 distribution and mapping model that proper conclusions cannot be made without further testing. However, future developments should take note of the inverse-relationship between the Pareto principle and Zipf's law and should develop further the relationship between carbon dioxide output and city size to allow for estimation of CO2 output based on city population. This, coupled with the aforementioned CO2 distribution models, is enough as a basis for future CO2 distribution prediction modelling.
   
 #### References  
   
