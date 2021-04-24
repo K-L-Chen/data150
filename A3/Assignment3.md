@@ -33,8 +33,8 @@
   As mentioned above, there exists a gap between CO2 emissions distributions between the people-per-pixel (PPP) model and the nighttime lights (NTL) model, usually between 250 tons-per-year/square-kilometer towards the NTL model when it comes to areas of greater absolute population, and towards the PPP model when it comes to other less-populous cities, as can be seen in Figure 2.  
   <img title="Figure 2: NTL CO2 emissions distribution minus the PPP CO2 emissions distribution in tons-per-year/square-kilometer (Gaughan et. al, 2019)" src="NTLMinusPPPCO2Emissions.PNG" width="600">  
   Ultimately, the variances between the two models may be great enough that it would be best if both were used, as to provide likely maximum/minimum CO2 emissions on a local scale.  
-  The recent growth of cities due to an influx of people from rural areas in developing countries also places emphasis on the relation between Zipf's law and the Pareto principle, the former relating to the growth of the size of a city and the latter relating to the increase in the number of cities. As can be seen in Table 3, the Pareto principle, more specifically, its exponent, is the inverse of the exponent of Zipf's law.
-  
+  The recent growth of cities due to an influx of people from rural areas in developing countries also places emphasis on the relation between Zipf's law and the Pareto principle, the former relating to the growth of the size of a city and the latter relating to the increase in the number of cities. As can be seen in Table 3 from Chen, the Pareto principle, more specifically, its exponent, is the inverse of the exponent of Zipf's law.
+  <img title="(Chen, 2011)" src="ParetoEXPZipfEXPCorrelation.PNG" width="600">
 **Conclusion**  
   
   X
