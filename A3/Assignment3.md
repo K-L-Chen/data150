@@ -27,7 +27,7 @@
 **Data Gaps**
   
   Given city growth rates, if we could somehow correlate the growth of CO2 emissions and industrial demand, as well as the increase in nighttime lights and neighborhood growth, to the growth of a city using Zipf's law and the Pareto principle, or 80/20 rule, we could actively generate predictions of emissions and emission distributions 
-  <img title="Equation 1: General Form of Zipf's Law (Chen, 2011)" src="ZipfsLaw.PNG" width="600"> 
+  <img title="Equation 1: General Form of Zipf's Law (Chen, 2011)" src="ZipfsLaw.PNG" width="300"> 
   
 **Conclusion**  
   
