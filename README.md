@@ -13,3 +13,4 @@
 1. [Data 150 Assignment 1: Annotated Bibliography](https://k-l-chen.github.io/data150/A1/Assignment1.html)
 2. [Data 150 Assignment 2: Literature Review](https://k-l-chen.github.io/data150/A2/Assignment2.html)
 3. [Data 150 Assignment 3: Research Question](https://k-l-chen.github.io/data150/A3/Assignment3.html)
+4. [Data 150 Assignment 4A: Presentation](https://k-l-chen.github.io/data150/A4/KChen_DATA150_A4.pdf)
