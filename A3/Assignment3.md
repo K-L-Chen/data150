@@ -50,9 +50,9 @@
   The development of modern mainland Southeast Asian cities and the subsequent increase in CO2 emissions gives us an insight into the importance of monitoring the growth of cities in developing countries. Creating prediction models for the purpose of predicting CO2 output by these developing cities, however, either lacks the proper resolution, as seen in the LMDz-INCA model, or has a high enough variance with another CO2 distribution and mapping model that proper conclusions cannot be made without further testing. However, future developments should take note of the inverse-relationship between the Pareto principle and Zipf's law and should develop further the relationship between carbon dioxide output and city size to allow for estimation of CO2 output based on city population. This, coupled with the aforementioned CO2 distribution models, is enough as a basis for future CO2 distribution prediction modelling.
   
 #### References  
-  
+Chen, Yanguang. (2011). Modeling fractal structure of city-size distributions using correlation functions. PloS One, 6(9), E24791.
+
+
 Gaughan, Andrea E, Oda, Tomohiro, Sorichetta, Alessandro, Stevens, Forrest R, Bondarenko, Maksym, Bun, Rostyslav, . . . Nghiem, Son V. (2019). Evaluating nighttime lights and population distribution as proxies for mapping anthropogenic CO2 emission in Vietnam, Cambodia and Laos. Environmental Research Communications, 1(9), Environmental Research Communications, 2019-09-11, Vol.1 (9).  
   
 Lin, Xin, Ciais, Philippe, Bousquet, Philippe, Ramonet, Michel, Yin, Yi, Balkanski, Yves, . . . Zhou, Lingxi. (2018). Simulating CH 4 and CO 2 over South and East Asia using the zoomed chemistry transport model LMDz-INCA. Atmospheric Chemistry and Physics, 18(13), 9475-9497.
-
-Chen, Yanguang. (2011). Modeling fractal structure of city-size distributions using correlation functions. PloS One, 6(9), E24791.
