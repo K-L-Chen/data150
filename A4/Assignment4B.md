@@ -19,9 +19,14 @@ Therefore, having both a machine-learning algorithm for CO2 emissions prediction
   
 **Objectives**  
   
-The objective of this study is to develop a pair of algorithms to predict both the amount of emissions of CO2 per person and the spread of population in cities, and whether the model projects outward growth or increasing density, and to then project the results of the former onto the latter by using a population-per-pixel to CO2 emissions model, as shown by Lin et al.
+The objective of this study is to develop a pair of algorithms to predict both the amount of emissions of CO2 per person and the spread of population in cities, and whether the model projects outward growth or increasing density, and to then project the results of the former onto the latter by using a population-per-pixel to CO2 emissions model, as shown by Gaughan et al. in order to understand the growth of developing cities and how to combat increased carbon output in these areas.  
+  
+**Research Planning and Budgeting**  
+  
+It would be preferable to utilize the model developed by Gaughan et al. over the model developed by Lin et al., as the the "LMDz-INCA" model developed by the Laboratoire de Météorologie Dynamique and used by Lin et al., using datasets from the World Data Center for Greenhouse Gases, still need to be calibrated properly for the detection and estimation of greenhouse gas emissions. Using this model to "predict" the previously observed data of both methane and carbon dioxide emissions from 2006-2013 in South and East Asia using two models: a standard version of the LMDz-INCA model and a zoomed version with a higher resolution centered over India and China. The study used data with a horizontal resolution of 50 km, as to "simulate the variations of CH4 and CO2 during the period 2006–2013." The model-projected data for South-East Asia, primarly Indonesia, and Southern East Asia, whose data collection centers are near Taiwan and Hong Kong, was very similar to that of observed data from the time period for methane emissions, which are primarily from anthropogenic sources, which are left unsaid by the study. However, the model was inconsistent with prediction of seasonal carbon dioxide emissions in parts per million, with a lower Pearson correlation value, with R = 0.27 for the standard model and R = 0.30 for the specialized model. This trend can also be seen for the other three data sets from the region. In both Northern-Southeast Asia and Southern Southeast-Asia, while the two prediction models are very similar, there exists a large standard deviation with regards to the observed data (Lin et al., 2018). Thus, while greenhouse gas emissions may be used for population distribution prediction related to transporation and industry, there exists too broad a set of data in the carbon dioxide prediction gradient in parts per million.  
+  
+The LMDz-INCA model also does not have any provisions for detailed projections of CO2 emissions onto maps of regions. As such, we will primarily focus on utilizing both the nighttime lights and population per pixel models, as detailed by Gaughan et al.
 
-**Budgeting**  
 
   
 #### References  
