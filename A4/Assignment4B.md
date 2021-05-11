@@ -19,7 +19,7 @@ Therefore, having both a machine-learning algorithm for CO2 emissions prediction
   
 **Objectives**  
   
-
+The objective of this study is to develop a pair of algorithms to predict both the amount of emissions of CO2 per person and the spread of population in cities, and whether the model projects outward growth or increasing density, and to then project the results of the former onto the latter by using a population-per-pixel to CO2 emissions model, as shown by Lin et al.
 
 **Budgeting**  
 
